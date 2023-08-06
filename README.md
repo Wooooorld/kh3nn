@@ -1,8 +1,12 @@
-<h1 align="center">Khan</h1>
+<h1 align="center">World</h1>
 
 <p align="center">
   <a href="https://twitter.com/kh3nn_" rel="nofollow">Twitter</a>
 </p>
+
+---
+
+- **@AfterRP** -> https://discord.gg/afterrp
 
 ---
 
